@@ -2,7 +2,8 @@
 
 [Fastfetch](https://github.com/fastfetch-cli/fastfetch) is a tool for fetching system information and displaying them in a elegant way. In this repo, I collect my config files that I designed for my powersehll enviroment. Feel free to copy files and modify them or clone the complete repository.
 
-![Skjermbilde 2024-10-18 231325](https://github.com/user-attachments/assets/a6956d09-c12a-487c-86ec-4820910fea08)
+
+![Skjermbilde 2024-10-18 231325](https://github.com/user-attachments/assets/2208f9c6-bfed-46b3-8801-31db383154ec)
 
 
 
